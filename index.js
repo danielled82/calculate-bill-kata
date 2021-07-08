@@ -1,6 +1,5 @@
-const calculateBill = () => {
-
+function calculateBill = () => {
+ 
 };
 
-module.exports = {
-    calculateBill};
+module.exports = calculateBill;
