@@ -1,5 +1,5 @@
 function calculateBill = () => {
- 
+ return calculateBill();
 };
 
-module.exports = calculateBill;
+module.exports = calculateB
